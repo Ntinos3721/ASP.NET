@@ -1,0 +1,4 @@
+An Internet Information Services (IIS) worker process is a windows process (w3wp.exe) which runs Web applications, 
+and is responsible for handling requests sent to a Web Server for a specific application pool.
+
+The ASP.NET worker process (aspnet_wp.exe or w3wp.exe) runs using an account (ASPNET) with weaker privileges than the Local System account. 
